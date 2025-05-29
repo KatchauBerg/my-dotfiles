@@ -1,0 +1,7 @@
+{
+  "layer": "top",
+  "position": "top",
+  "modules-left": ["clock"],
+  "modules-center": [],
+  "modules-right": []
+}

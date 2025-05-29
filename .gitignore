@@ -1,0 +1,7 @@
+# Ignorar arquivos gerados dinamicamente
+.cache/
+*.log
+*.swp
+
+# Ignorar arquivos de cores gerados
+kitty/colors.conf
