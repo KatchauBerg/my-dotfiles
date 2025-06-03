@@ -1,0 +1,29 @@
+{
+  // Waybar Catppuccin Mocha
+  "layer": "top",
+  "position": "top",
+  "margin-top": 10,
+  "margin-left": 10,
+  "margin-right": 10,
+  "spacing": 6,
+
+  "include": [
+    "~/.dotfiles/themes/catppuccin-mocha/waybar/modules.json"
+  ],
+
+  "modules-left": [
+    "hyprland/workspaces"
+  ],
+
+  "modules-center": [
+    "clock"
+  ],
+
+  "modules-right": [
+    "pulseaudio",
+    "battery",
+    "network",
+    "tray"
+  ]
+}
+

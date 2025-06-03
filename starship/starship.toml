@@ -1,0 +1,5 @@
+format = "$directory$character"
+
+[directory]
+style = "bold #89b4fa"
+

@@ -1,0 +1,21 @@
+{
+  "clock": {
+    "format": "{:%H:%M }",
+    "tooltip-format": "{:%A, %d %B %Y}"
+  },
+  "battery": {
+    "format": "{capacity}% {icon}",
+    "format-charging": "{capacity}% ",
+    "format-icons": ["", "", "", "", ""]
+  },
+  "network": {
+    "format-wifi": " {essid}",
+    "format-ethernet": " Wired",
+    "format-disconnected": "⚠️ Disconnected"
+  },
+  "pulseaudio": {
+    "format": " {volume}%",
+    "format-muted": " Muted"
+  }
+}
+
